@@ -323,10 +323,10 @@ Set `en0`–`en3` all to `1` in every test row to ensure all pipeline stage enab
 | ICG cells | 4 |
 | Counter width | 2 bits |
 | Target tool | Logisim-evolution 4.0 |
-| Licence | [MIT]{https://github.com/IR-OTNO-code/16-bit-Pipelined-ALU-with-Integrated-Clock-Gating-ICG-/commit/53d4af384a59c9a2cdc9f5e796cd649c636bbc24} |
+| Licence | [MIT](https://github.com/IR-OTNO-code/16-bit-Pipelined-ALU-with-Integrated-Clock-Gating-ICG-/commit/53d4af384a59c9a2cdc9f5e796cd649c636bbc24) |
 
 ---
 
 ## Licence
 
-This project is licensed under the  [MIT]{https://github.com/IR-OTNO-code/16-bit-Pipelined-ALU-with-Integrated-Clock-Gating-ICG-/commit/53d4af384a59c9a2cdc9f5e796cd649c636bbc24} Licence. See the `LICENSE` file for full terms.
+This project is licensed under the  [MIT](https://github.com/IR-OTNO-code/16-bit-Pipelined-ALU-with-Integrated-Clock-Gating-ICG-/commit/53d4af384a59c9a2cdc9f5e796cd649c636bbc24) Licence. See the [`LICENSE`](https://github.com/IR-OTNO-code/16-bit-Pipelined-ALU-with-Integrated-Clock-Gating-ICG-/commit/53d4af384a59c9a2cdc9f5e796cd649c636bbc24) file for full terms.
